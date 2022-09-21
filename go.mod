@@ -1,4 +1,4 @@
-module github.com/cologicai/auth
+module github.com/cologic-ai/auth
 
 go 1.19
 
